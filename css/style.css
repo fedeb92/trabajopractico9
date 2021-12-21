@@ -1,1 +1,26 @@
-@_colores;
+li {
+  padding: 20px; }
+  li a {
+    color: blue;
+    padding: 20px; }
+
+.contendoresFooters {
+  padding: 20px;
+  background-color: yellowgreen;
+  display: flex;
+  justify-content: space-evenly; }
+
+.parrafo1 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 10px; }
+
+.videoMain {
+  display: flex;
+  justify-content: center; }
+
+.logoCenter {
+  padding: 10px;
+  display: flex;
+  justify-content: center; }
